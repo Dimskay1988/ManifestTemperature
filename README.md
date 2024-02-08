@@ -31,6 +31,10 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ssh -R manifesttemperaturesensor:80:localhost:8000 serveo.net
 ```
 
+```sh
+ssh -R manifest-temp-sensor:80:localhost:8000 serveo.net
+```
+
 </details>
 
 
