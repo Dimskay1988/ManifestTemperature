@@ -35,6 +35,14 @@ ssh -R manifesttemperaturesensor:80:localhost:8000 serveo.net
 ssh -R manifest-temp-sensor:80:localhost:8000 serveo.net
 ```
 
+```sh
+ssh -R manifest-temperature-sensor:80:localhost:8000 serveo.net
+```
+
+url to temperature:
+
+https://manifest-temperature-sensor.serveo.net/get_temperature
+
 </details>
 
 
