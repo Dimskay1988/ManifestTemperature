@@ -23,6 +23,30 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 </details>
 
+# Start at the exhibition
+
+Go to project directory
+
+```sh
+cd Documents/ManifestTemperature
+```
+
+Activate the virtual environment
+
+```sh
+source venv/bin/activate
+```
+
+Start the project
+```sh
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+Start the serveo in the new terminal
+```sh
+ssh -R manifest-temperature-sensor:80:localhost:8000 serveo.net
+```
+
 # Command to start a domain
 
 <details>
