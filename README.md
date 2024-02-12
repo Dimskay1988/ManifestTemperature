@@ -24,7 +24,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 </details>
 
 # Start at the exhibition
-
+<details>
 Go to project directory
 
 ```sh
@@ -46,6 +46,7 @@ Start the serveo in the new terminal
 ```sh
 ssh -R manifest-temperature-sensor:80:localhost:8000 serveo.net
 ```
+</details>
 
 # Command to start a domain
 
