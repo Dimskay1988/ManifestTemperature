@@ -2,7 +2,9 @@
 
 Obtaining temperature value from STE 2 lite sensor
 
-![Temperature Sensor](images/temperature_monitoring.png)
+<div style="text-align:center;">
+    <img src="images/image_2024_02_15T10_42_27_147Z.png" alt="Temperature Sensor">
+</div>
 
 # Installation and start project
 <details>
