@@ -2,6 +2,8 @@
 
 Obtaining temperature value from STE 2 lite sensor
 
+![Temperature Sensor](images/temperature_monitoring.png)
+
 # Installation and start project
 <details>
 
